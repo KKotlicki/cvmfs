@@ -20,7 +20,7 @@
     ####################################################
     # CREATE repo
     ####################################################
-    sudo cvmfs_server mkfs local.test.rep
+    sudo cvmfs_server mkfs local.test.repo
 
     ####################################################
     # START MODIFY files - this is done in a transaction
